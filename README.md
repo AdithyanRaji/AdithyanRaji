@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdithyanRaji
 - 👀 I’m interested in Data Science and ML.<br/>
 - 🌱 I’m currently learning DSA and Web Development.<br/>
-- 💞️ I’m looking to collaborate on [Linked In](https://www.linkedin.com/in/adithyan-r-0913a628b/)<br/>
 - 📫 How to reach me: rajibhargavan2@gmail.com <br/>
 - 😄 Pronouns: He/Him <br/>
 - ⚡ Fun fact: the first computer “bug” was quite literally a bug.In 1947, computer scientist Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer, causing a malfunction. They documented it in their logbook as the “first actual case of bug being found,” and taped the moth to the page. Since then, the term debugging has become a core part of programming. <br/>
